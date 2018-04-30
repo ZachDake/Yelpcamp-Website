@@ -1,0 +1,48 @@
+body {
+  background: #232526;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.delete-form {
+  display: inline;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+.thumbnail .caption-full {
+  padding: 9px;
+}
+/* START OF LANDING PAGE CSS */
+.landingback {
+  background: url(http://wallup.net/wp-content/uploads/2015/12/211798-forest-camping-starry_night-trees-Milky_Way-long_exposure-lights-universe-space-nature-landscape.jpg);
+  color: white;
+  text-align: center;
+}
+
+.landingtext h1 {
+  margin: auto;
+  font-size: 60px;
+  text-decoration: underline;
+  position: absolute;
+  top: 275;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.landingtext a {
+  padding: 50px auto;
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  top: 350;
+  bottom: 100;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+/*END OF LANDING PAGE CSS */
